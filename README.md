@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<strong>  A .NET Developer from Turkey. </strong>
+<strong>  A .NET Developer in Turkey. </strong>
 </p>
 
 - 🔭 I’m currently working on **EchoCCS**.
