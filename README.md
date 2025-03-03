@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<strong>  A .NET Developer in Turkey. </strong>
+<strong>  A Backend Developer in Turkey. </strong>
 </p>
 
-- 🔭 I’m currently working on **EchoCCS**.
+- 🔭 I’m currently working on **ParaQR**.
 - 🌱 I’m currently learning Elasticsearch, GraphQL.
 - 📫 How to reach me: [umutekici1@hotmail.com](mailto:umutekici1@hotmail.com)
 
