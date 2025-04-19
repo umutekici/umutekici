@@ -6,7 +6,7 @@
 <strong>  A Backend Developer in Turkey. </strong>
 </p>
 
-- 🔭 I’m currently working on **ParaQR**.
+- 🔭 I’m currently working on **ParaQR Payment Systems**.
 - 🌱 I’m currently learning GraphQL.
 - 📫 How to reach me: [umutekici1@hotmail.com](mailto:umutekici1@hotmail.com)
 
