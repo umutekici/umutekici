@@ -7,7 +7,6 @@
 </p>
 
 - 🔭 I’m currently working on **Migros Ticaret A.Ş.**.
-- 🌱 I’m currently learning GraphQL.
 - 📫 How to reach me: [umutekici1@hotmail.com](mailto:umutekici1@hotmail.com)
 
 <p align="left" dir="auto">
